@@ -1,4 +1,5 @@
-# GitHub Page
+[![image](https://raw.githubusercontent.com/nb333/gilt.github.com/master/img/gilt-tech-logo.png)](http://gilt.github.io)
+========
 
 Source code for Gilt Tech's GitHub page http://gilt.github.io
 
