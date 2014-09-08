@@ -1,4 +1,5 @@
-# GitHub Page
+[![Gilt Tech Logo](http://i.imgur.com/oXUIvMa.png?1)](http://gilt.github.io)
+========
 
 Source code for Gilt Tech's GitHub page http://gilt.github.io
 
