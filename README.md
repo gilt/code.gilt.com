@@ -1,6 +1,6 @@
 # GitHub Page
 
-Source code for Gilt Tech's GitHub page http://gilt.github.io
+Source code for Gilt Tech's GitHub page http://code.gilt.com
 
 ## License
 
